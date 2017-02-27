@@ -24,11 +24,11 @@ The goals / steps of this project are the following:
 
 
 
-## Summary of work done (more details in writeup_report.md)
+## Summary of work done 
 
 Pl. see writeup.pdf file for details of work done. 
 
-Used Jupyter Notebook during the development.
+I used Jupyter Notebook during the development.
 
 
 ## Details About Files In This Directory
