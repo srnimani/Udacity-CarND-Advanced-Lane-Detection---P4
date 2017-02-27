@@ -12,14 +12,14 @@ Initial Committ on 27th Feb 2017.
 The Project
 ---
 The goals / steps of this project are the following:
-•	Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
-•	Apply a distortion correction to raw images.
-•	Use color transforms, gradients, etc., to create a thresholded binary image.
-•	Apply a perspective transform to rectify binary image ("birds-eye view").
-•	Detect lane pixels and fit to find the lane boundary.
-•	Determine the curvature of the lane and vehicle position with respect to center.
-•	Warp the detected lane boundaries back onto the original image.
-•	Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
+*	Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
+*	Apply a distortion correction to raw images.
+*	Use color transforms, gradients, etc., to create a thresholded binary image.
+*	Apply a perspective transform to rectify binary image ("birds-eye view").
+*	Detect lane pixels and fit to find the lane boundary.
+*	Determine the curvature of the lane and vehicle position with respect to center.
+*	Warp the detected lane boundaries back onto the original image.
+*	Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
 
 
@@ -30,19 +30,23 @@ Pl. see writeup.pdf file for details of work done.
 
 Used Jupyter Notebook during the development.
 
+
 ## Details About Files In This Directory
 
 ### `writeup.pdf`
 
-Describes the steps taken towards achieving the project goals with illustration and takes the rubric as the base. .
+Describes the steps taken towards achieving the project goals with illustration and takes the rubric as the base.
+
 
 ### `Advanced-Lane-Line-Detection-P4-Submitted.ipynb`
 
 Jupyter note book, containing the actual code. Has embedded videos for palying ditecly from file.
 
+
 ### `Advanced-Lane-Line-Detection-P4-Submitted.html`
 
 Jupyter note book, html file.
+
 
 ###  'Directory - CarND-Advanced-Lane-Lines-master`
 
